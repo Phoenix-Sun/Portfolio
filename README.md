@@ -1,5 +1,9 @@
 # Portfolio
 
+01_NBA_SQL
+
+以SQL語法查找NBA球員統計資料。
+
 02_IMDb1000
 
 分析IMDb(網路電影資料庫)排名前一千的電影資料。
